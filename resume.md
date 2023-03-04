@@ -38,11 +38,23 @@
 
 - ### What I did
 
-  - WIP
+  - Research and Development
 
 - ### Technology Stacks
 
-  - WIP
+  - Frontend
+    - Flutter
+      - GetX
+    - iOS Native
+      - SwiftUI
+      - MVVM
+  - Backend
+    - FastAPI
+  - Infrastructure
+    - GCP
+  - Others
+    - Google App Script
+    - Slack API
 
 ---
 
