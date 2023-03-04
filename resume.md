@@ -59,11 +59,16 @@
 
   - ### What I did
 
-    - WIP
+    - Replacement of payment related modules
 
   - ### Technology Stacks
 
-    - WIP
+    - Frontend
+      - React
+    - Backend
+      - Ruby on Rails
+    - Infrastructure
+      - AWS
 
   ## **SOELU, Inc.**
 
