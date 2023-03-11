@@ -11,20 +11,74 @@
   <details>
     <summary><strong>EN</strong></summary>
 
-    - WIP
+    - Development of Q&A service "HiNative" for language learning
+      - Development of iOS application
+        - Product improvement
+        - Objective-C -> Swift replacement
+        - Introduction and maintenance of CI/CD
+        - Automation for business improvement
+      - Development of Android application
+        - Development lead
+        - Product improvement
+        - Development of live streaming function
+        - Improvement of payment function
+        - Member management including outsourcing
+    - Related to engineer organization development
+      - Promotion of engineer recruitment
+      - Improvement of development flow
+      - iOS/Android team management
+      - Improvement of service system design
 
   </details>
 
   <details>
     <summary><strong>JP</strong></summary>
 
-    - WIP
+    - 語学学習のためのQ&Aサービス「HiNative」の開発
+      - iOSアプリケーションの開発
+        - プロダクト改善
+        - Objective-C -> Swiftへの置き換え
+        - CI/CDの導入とメンテナンス
+        - 業務改善のための自動化
+      - Androidアプリケーションの開発
+        - 開発リード
+        - プロダクト改善
+        - ライブ配信機能の開発
+        - 決済機能の改善
+        - 業務委託含めたメンバーマネジメント
+        - その他開発関連で必要なこと全部
+    - エンジニア組織開発関連
+      - エンジニア採用推進
+      - 開発フロー改善
+      - iOS/Androidチームマネジメント
+      - サービスのシステム設計改善
 
   </details>
 
 - ### Technology Stacks
 
-  - WIP
+  - Frontend
+    - iOS
+      - Swift
+      - RxSwift
+      - Combine
+      - Carthage
+      - CocoaPods
+      - Fastlane
+      - XCTest
+      - Bitrise
+    - Android
+      - Kotlin
+      - MVVM
+      - Jetpack Compose
+      - Dagger / Hilt
+      - JUnit
+      - CircleCI
+    - Common
+      - Fastlane
+      - Firebase
+      - Lokalise
+      - DeployGate
 
 ## **STORES, Inc.**
 
@@ -39,20 +93,65 @@
   <details>
     <summary><strong>EN</strong></summary>
 
-    - WIP
+    - Development of the app "STORES Payment" that allows easy cashless payment in stores
+      - iOS Engineer
+      - Function improvement
+      - Review strategy ☆2.8 (30 reviews) -> ☆4.6 (5000 reviews)
+      - Performance tuning of electronic money payment
+      - Start of Obj-C -> Swift replacement project
+    - Development of iPad app "STORES Register" that connects stores and EC
+      - New product launch
+      - Technology selection and architect
+      - CI / CD, etc. Automation for development efficiency
+      - Recruitment assistance for engineers
+      - Promotion of integration with cashless payment service "STORES Payment" for offline and anyone can easily create an EC site "STORES"
 
   </details>
 
   <details>
     <summary><strong>JP</strong></summary>
 
-    - WIP
+    - 実店舗で簡単にキャッシュレス決済が導入できるアプリ「STORES 決済」の開発
+      - iOSエンジニア
+      - 機能改善
+      - レビュー施策☆2.8(30件) -> ☆4.6(5000件)
+      - 電子マネー決済のパフォーマンスチューニング
+      - Obj-C -> Swiftのリプレイスプロジェクト立ち上げ
+    - 後払い決済事業の開発
+      - Webフロントエンド開発
+      - ライブラリのアップデート
+    - 実店舗とECを繋ぐiPad用アプリ「STORES レジ」の開発
+      - 新規プロダクト立ち上げ
+      - 技術選定・設計
+      - CI/CD、その他、開発効率化のための自動化
+      - エンジニア採用補助
+      - オフライン向けキャッシュレス決済サービス「STORES 決済」と誰でも簡単にECサイトが作れる「STORES」との連携推進
 
   </details>
 
 - ### Technology Stacks
 
-  - WIP
+  - Frontend
+    - iOS
+      - STORES Payment
+        - Objective-C
+        - Swift
+        - Clean Swift
+        - CocoaPods
+        - Carthage
+        - REST API
+      - STORES Regi
+        - Swift
+        - SwiftUI
+        - Customized Redux
+        - Combine
+        - CocoaPods
+        - SPM
+        - Fastlane
+        - GraphQL
+        - Quick / Nimble
+    - Web
+      - Vue.js
 
 ## **6Assets, Inc.**
 
@@ -127,7 +226,7 @@
   - ### Technology Stacks
 
     - Frontend
-      - React
+      - React.js
     - Backend
       - Ruby on Rails
     - Infrastructure
