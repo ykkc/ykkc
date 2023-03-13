@@ -26,4 +26,4 @@
 
 [![ykkc's github stats](https://github-readme-stats.vercel.app/api?username=ykkc&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![fdas](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)
+[![ykkc's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)
