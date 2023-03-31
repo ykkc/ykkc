@@ -9,6 +9,7 @@
 
 <h3 align="left">Articles:</h3>
 
+- [ボーダレスなエンジニアを目指して。実現のカギは「相互理解」](https://www.wantedly.com/companies/lang-8/post_articles/494869)
 - [STORES レジ リリースの舞台裏〜iOSエンジニア編〜](https://people.st.inc/n/ne91a41bd6f0f)
 - [「やっぱりものを作るのが好き」“本業”×“副業”で輝くiOSアプリ開発エンジニアよここさんの多彩で一途な生き方](https://ios-academia.com/blog/interview/ios-engineer/429)
 
