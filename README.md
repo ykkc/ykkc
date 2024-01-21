@@ -99,5 +99,3 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ykkc)](https://github.com/anuraghazra/github-readme-stats)
-
-[![ykkc's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)](https://github-readme-streak-stats.herokuapp.com/?user=ykkc)
