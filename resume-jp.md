@@ -1,4 +1,4 @@
-# Current works
+# 現在の仕事
 
 ## **Lang-8, Inc.**
 
