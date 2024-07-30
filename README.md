@@ -1,6 +1,7 @@
 ## 💻 **Careers**
 
-- [Resume](resume.md)
+- [Resume[JP]](resume-jp.md)
+- [Resume[EN]](resume-en.md)
 
 ## 🔗 **Links**
 
