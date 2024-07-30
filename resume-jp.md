@@ -133,7 +133,7 @@
 ---
 
 <details>
-  <summary><strong>Previous works</strong></summary>
+  <summary><strong>以前の仕事</strong></summary>
 
   <br>
 
