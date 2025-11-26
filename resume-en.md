@@ -157,7 +157,7 @@
 
 - ### Contract
 
-  - Subcontractor: 2022/01/01〜
+  - Subcontractor: 2022/01/01〜2024/02/29
 
 - ### What I did
 
