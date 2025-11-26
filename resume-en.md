@@ -84,7 +84,7 @@
 
 - ### Contract
 
-  - Subcontractor: 2022/07/01〜
+  - Subcontractor: 2022/07/01〜2023/06/30
   - Part-time employee: 2021/08/01〜2022/06/30
   - Full-time employee: 2019/02/01〜2021/07/30
 
